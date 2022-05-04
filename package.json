@@ -1,5 +1,5 @@
 {
-    "name": "Bhaumik",
+    "name": "task_4",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -7,7 +7,7 @@
         "start": "nodemon index.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "",
+    "author": "Bhaumik",
     "license": "ISC",
     "dependencies": {
         "bcrypt": "^5.0.1",
